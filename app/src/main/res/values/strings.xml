@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="search_city_hint">Search for a city</string>
+    <string name="hourly_forecast_title">HOURLY FORECAST</string>
+
+
+    <string name="day_forecast_title">7-DAY FORECAST</string>
+    <string name="cel_format">%°</string>
+
+    <string name="uv_index">UI INDEX</string>
+    <string name="uv_lowest">Lowest.\nNo protection needed.</string>
+    <string name="uv_low">Low.\nBurn time: well over 1 hours.</string>
+    <string name="uv_medium">Medium.\nProtection is a good idea.</string>
+    <string name="uv_high">High.\nProtection needed.</string>
+    <string name="uv_very_high">Very High.\nProtection required.</string>
+    <string name="uv_extreme">Extreme.\nStay inside.</string>
+
+
+    <string name="sunrise_title">SUNRISE</string>
+    <string name="sunset">Sunset %</string>
+    <string name="wind">WIND</string>
+    <string name="rain_fall">RAINFALL</string>
+    <string name="rain_last_24">In last 24 hours</string>
+
+    <string name="air_quality">AIR QUALITY</string>
+    <string name="air_lvl_good">Good!</string>
+    <string name="air_lvl_moderate">Moderate!</string>
+    <string name="air_lvl_high">Unhealthy for sensitive group!</string>
+    <string name="air_lvl_unhealthy">Unhealthy!</string>
+    <string name="air_lvl_very_unhealthy">Very unhealthy!</string>
+    <string name="air_lvl_hazardous">Hazardous!</string>
+
+    <string name="humidity">HUMIDITY</string>
+
+    <string name="connection_error">Please check your connection!</string>
+    <string name="unexpected_error">Unexpected error!</string>
+
+    <string name="delete">DELETE</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="degree_c"> %1s℃</string>
+    <string name="degree">%1s°</string>
+    <string name="percent">%1s\%%</string>
+    <string name="uv_index_number">UV index: %1s</string>
+    <string name="mm">%1smm</string>
+    <string name="mph">%1smph</string>
+    <string name="low_humid">Too dry!</string>
+    <string name="fair_humid">Optimal</string>
+    <string name="too_humid">Too humid</string>
+
+</resources>
