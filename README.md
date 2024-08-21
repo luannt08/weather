@@ -37,4 +37,5 @@ Additionally, models with the UI prefix represent the presentation layer.
 
 Unit testing is a valuable practice for ensuring the quality and functionality of an application. It helps identify and fix bugs early in the development process. Unfortunately, due to time constraints for this assignment, I was unable to write more on the topic of unit testing.
 
-##### *To use this source please config apiKey and url in localproperties file.
+##### * To use this source please config apiKey and url in localproperties file.
+##### * API source: https://www.weatherbit.io/api
